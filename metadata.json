@@ -1,0 +1,6 @@
+{
+  "name": "Words Magic — Playful Flashcards",
+  "description": "Audio-first, tap-friendly flashcards and mini-games in Spanish, Mandarin, and Korean designed specifically for young children.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
